@@ -35,3 +35,11 @@
 img {
   max-width: 50%;
 }
+
+body {
+  background: linear-gradient(to right, #6c5ce7, #b043f0);
+}
+
+h1, h2 {
+  color: #fff;
+}
